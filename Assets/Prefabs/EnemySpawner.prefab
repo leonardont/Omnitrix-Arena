@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2222228664330983216
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4045055079395671188}
+  - component: {fileID: 7580291339736517326}
+  m_Layer: 0
+  m_Name: EnemySpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4045055079395671188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2222228664330983216}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7580291339736517326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2222228664330983216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3810e51c2bdc3c04fa73c34bef697891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyVariant1: {fileID: 7728098446801760242, guid: 3a5428e685023cb42bedea8b86fa16dd, type: 3}
+  enemyVariant2: {fileID: 7728098446801760242, guid: 278363a0d77ca624cb96f38037fbe60d, type: 3}
+  enemyVariant3: {fileID: 7728098446801760242, guid: be90e29c038d7214eaad0ca93344f7e1, type: 3}
+  enemyVariant4: {fileID: 7728098446801760242, guid: 98b91c4f5841a324a885cb7c5aa9520d, type: 3}
+  enemyVariant5: {fileID: 7728098446801760242, guid: c1338ae0f408c3247b06c542c5e42f65, type: 3}
+  enemyVariant6: {fileID: 7728098446801760242, guid: 2206ff60ee1ab23409858e1436e74ed7, type: 3}
+  enemyVariant7: {fileID: 7728098446801760242, guid: 7d9aeba6dbb16b04dba2b0f946331cbf, type: 3}
+  enemyVariant8: {fileID: 7728098446801760242, guid: 8de2fad3e3a27044289e2086bf32b3ac, type: 3}
+  enemyVariant9: {fileID: 7728098446801760242, guid: 035ddb0b456c82a40b4aded3a96f1f3a, type: 3}
+  enemyVariant10: {fileID: 7728098446801760242, guid: 6b0bfcd893ffae84ead680ff4884da00, type: 3}
+  interval: 15

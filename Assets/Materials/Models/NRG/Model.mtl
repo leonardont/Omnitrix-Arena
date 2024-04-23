@@ -1,0 +1,16 @@
+# Created by Metasequoia
+
+newmtl mat1.png
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+Ns 0.00000
+map_Kd mat1.png
+
+newmtl mat2.png
+Ka 0.00000 0.00000 0.00000
+Kd 0.50000 0.50000 0.50000
+Ks 0.00000 0.00000 0.00000
+Ns 0.00000
+map_Kd mat2.png
+
