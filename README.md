@@ -1,6 +1,6 @@
 <h1 align="center">Omnitrix Arena</h1>
 
-<p align="center">A 3D Ben 10-themed survival game in which you control Ben Tennyson while inside the omnitrix, living his worst nightmare: his own aliens turning against him. Developed as a college project for Faculdade de Tecnologia de Americana (FATEC-AM).</p><br>
+<p align="center">A 3D Ben 10-themed survival game in which you control Ben Tennyson while inside the Omnitrix, living his worst nightmare: his own aliens turning against him. Developed as a college project for Faculdade de Tecnologia de Americana.</p><br>
 <p align="center">This is the repository for the complete source codes and assets used in the game. You can use it for free to learn, research, modify or improve the game. The limit is your imagination!</p>
 
 <br>
@@ -27,7 +27,7 @@
 <hr>
 <br>
 
-<h4 align="center">DISCLAIMER: "Omnitrix Arena" is a personal project, developed for both the "Digital Games for Consoles" subject, coded "IJD007", and "Artificial Intelligence in Digital Games" subject, coded "IJD014", at Faculdade de Tecnologia de Americana (FATEC-AM), located in Americana, São Paulo, Brazil.<h4>
+<h4 align="center">DISCLAIMER: "Omnitrix Arena" is a personal project, developed for both the "Digital Games for Consoles" subject, coded "IJD007", and "Artificial Intelligence in Digital Games" subject, coded "IJD014", at Faculdade de Tecnologia de Americana, located in Americana, São Paulo, Brazil.<h4>
 <h4 align="center">This project does NOT comercially profit today, has NOT comercially profited in the past, and will NOT comercially profit in the future.</h4>
 <h4 align="center">The owners and participants of this project do not sell, endorse the selling or receive any money for the copies of this project, strictly because there is copyrighted material from third parties developed into it.</h4>
 <br>
